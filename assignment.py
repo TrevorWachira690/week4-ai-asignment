@@ -1,4 +1,3 @@
-```python
 # QUESTION 4
 print("Hello AI Students")
 
@@ -26,6 +25,6 @@ student= {
 }
 print(student["Name"])
 #Output- Trevor
-```
+
 # BONUS QUESTION
 # A list is an ordered collection of elements that support different data types whereas a dictionary is a coll3ction of key-value pairs enclosed in curly brackets.
