@@ -2,11 +2,11 @@
 print("Hello AI Students")
 
 # QUESTION 5
-Name= "Trevor"
+Name= "John"
 Age= 20
 City= "Nairobi"
 print("Name:",Name)
-#Name: Trevor
+#Name: John
 print("Age:",Age)
 #Age: 20
 print("City:",City)
